@@ -1,7 +1,7 @@
 from selenium import webdriver
-# from selenium.webdriver.common.keys import Keys
-# from playsound import playsound
-# import time
+from selenium.webdriver.common.keys import Keys
+from playsound import playsound
+import time
 
 
 driver = webdriver.Chrome('F:\\Tutorial Stuffs\\Python Stuffs\\Browser Drivers\\msedgedriver.exe')
