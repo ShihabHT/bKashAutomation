@@ -5,6 +5,7 @@ from selenium import webdriver
 
 
 driver = webdriver.Chrome('F:\\Tutorial Stuffs\\Python Stuffs\\Browser Drivers\\msedgedriver.exe')
+
 # page = webdriver.Edge('G:\\downloads\\msedgedriver')
 driver.get('https://console.firebase.google.com/project/fluid-wallpaper/storage/fluid-wallpaper.appspot.com/files')
 
