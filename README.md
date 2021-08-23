@@ -1,3 +1,3 @@
 # bKashAutomation
-This code was developed to automatically participate a quiz and score 3 points within the shortest possible time
-Developed using web automation
+This code was developed to automatically participate a quiz and score 3 points within the shortest possible time<br>
+- Developed using web automation
